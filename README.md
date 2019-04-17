@@ -4,4 +4,8 @@ Pepito uno
 Juanita uno 
 Pepito dos :'v 
 Seno
+Restar negativos papu
 Coseno
+
+
+
