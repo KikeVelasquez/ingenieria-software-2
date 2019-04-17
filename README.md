@@ -6,6 +6,6 @@ Pepito dos :'v
 Seno
 Restar negativos papu
 Coseno
-
+Multiplicar negativos
 
 
