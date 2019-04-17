@@ -4,3 +4,4 @@ Pepito uno
 Juanita uno 
 Pepito dos :'v 
 
+Restar negativos papu
